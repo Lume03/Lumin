@@ -2,4 +2,4 @@
 
 ## 📑 Entregable
 
-[Primer Entregable Base de Datos II.pdf](https://github.com/user-attachments/files/22610117/Primer.Entregable.Base.de.Datos.II.pdf)
+[Primer Entregable Base de Datos II.pdf](https://github.com/user-attachments/files/22610284/Primer.Entregable.Base.de.Datos.II.pdf)
